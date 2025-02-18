@@ -1,4 +1,5 @@
 # FlutterLearning
 Learning flutter to create faster cross-platform app.
-Added: roll_dice [Project Based Learning].
+## Project Based Learning.
+Added: `[roll_dice](https://github.com/goatsefl/FlutterLearning/tree/master/roll_dice)` 
 
