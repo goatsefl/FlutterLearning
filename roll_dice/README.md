@@ -1,7 +1,5 @@
 # roll_dice
-
-A new Flutter project.
-
+Offline dice to replace physical purchase.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
